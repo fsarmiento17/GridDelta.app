@@ -1,4 +1,4 @@
-# _config.yml
 theme: minima
-title: GridDeltas
+title: GridDelta Legal
 description: Privacy, support and terms
+markdown: kramdown
