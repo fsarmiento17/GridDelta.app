@@ -1,9 +1,9 @@
 ---
 layout: page
-title: GridDelta Legal
+title: GridDelta App
 permalink: /
 ---
 
-- [Privacy Policy](/privacy.html)
-- [Support](/support.html)
-- [Terms of Use](/terms.html)
+- [Privacy Policy](/GridDelta.app/privacy.html)
+- [Support](/GridDelta.app/support.html)
+- [Terms of Use](/GridDelta.app/terms.html)
